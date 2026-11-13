@@ -1,5 +1,5 @@
 # archivos excluidos
-# no subir contraseñas de mysql
+# no subir contraseñas de mysql, excluir archivo config.php
 /app/config.php
 # no cargar variables del entorno 
 .env
